@@ -1,1 +1,1 @@
-# -LeanIn_October2021_SQL_Ayushi_Nanda
+# LeanIn_October2021_SQL_Ayushi_Nanda
